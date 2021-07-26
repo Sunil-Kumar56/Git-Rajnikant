@@ -2,4 +2,4 @@ my phone
 
 display
 keyboard
-battery
+lithium-ion-battery
